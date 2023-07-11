@@ -1,5 +1,5 @@
 pandas
 numpy
 fastapi
-sklearn
+scikit-learn
 uvicorn
